@@ -54,22 +54,34 @@ Key insights-
 
 
 *Claims increased by ~52% from 2022 to 2024, followed by a decline in the later period.
+
 *Claim ratio is high at 84.5%, exceeding the ideal range (60–75%), indicating profitability risk.
+
 *Certain hospitals (e.g., Pradhan Rao) show unusually high claim ratios (~419%), suggesting potential anomalies and need for audit.
+
 *Age group 41–60 contributes the highest claim volume.
+
 *Individual policy category hold the highest total claim amount (~₹47 Cr).
+
 *Kolkata and New Delhi report the highest claim amounts among cities.
+
 *Middle-income group contributes ~53% of total claims.
+
 *Policyholders pay ~17% out-of-pocket expenses due to non-covered treatments.
+
 *Cashless payment method is most preferred (~₹67 Cr claim volume) due to convenience.
+
 *QoQ% trends indicate higher risk compared to relatively YoY and MoM trends.
+
 *Revenue trend is inconsistent across periods, indicating volatility.
+
 *Peak MoM changes observed in March, May, July, and October.
+
 *Overweight and normal BMI categories show higher claim frequency than obese category.
+
 *Private hospitals have the highest average treatment cost (~₹1.67 lakh).
+
 *Aggregator and Bancassurance channels contribute ~26% of total market share.
-
-
 
 Business outcome:-
 
