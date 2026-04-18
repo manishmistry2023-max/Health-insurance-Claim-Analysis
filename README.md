@@ -2,17 +2,14 @@
 
 Project- Health insurance Claim Analysis
 
-
-
 Objective:- I Designed an interactive dashboard using SQL & Power BI tool to analyze health insurance claim data, identifying claim impact on company growth, risk factors, and claim ratio patterns. Also evaluated customer hospitalization expenses to uncover insights that support business growth and improve policyholder service strategies.
-
-
 
  Tool Used-
 
-
 |Power BI- Used Dax function, power query to create dashboard.
+
 |SQL-Use Aggregation, CTEs, Case for create insights.
+
 |Excel- Used for data formatting like number, text, table formatting.
 
 Dataset Information:-
