@@ -29,25 +29,33 @@ Built an interactive health insurance claim analysis dashboard which are divided
 *Executive claim overview
 
 -Designed KPI cards to track Total Claims, Total Claim Amount, Average Claim Amount, and Claim Ratio
+
 -Built trend analysis using line charts to monitor claim amount over time
+
 -Calculated and visualized MoM%, QoQ%, YoY% growth trends
+
 -Identified Top 10 hospitals by highest claim ratio
 
 *Customer Cost Analysis
 
 -Developed KPI cards for Insurance Claim Amount, Treatment Cost, and Out-of-Pocket Expenses per customer.
+
 -Implemented interactive slicers for segment-wise analysis.
 
 -Built visualizations:
 
 -Clustered bar/column charts for city-wise and BMI-wise analysis.
+
 -Donut charts for income-level claim distribution.
 
 *Claim performance and risk analysis
 
 -Create KPI Cards for Mapping Total Claim amount, Avg.Claim amount and claim ratio.
+
 -Compared Current Month vs Previous Month claim trends using line with clustered column charts for performance tracking.
+
 -Identify cashless payment method is highest preferable service used for hassle free payment.
+
 -Agent and bancassurance is most trustable channel for claim settlement.
 
 Key insights-
